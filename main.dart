@@ -5,5 +5,5 @@ void main(){
 }
 
 void sayHello(){
-  print("hello");
+  print("agus");
 }
