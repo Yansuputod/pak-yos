@@ -4,6 +4,6 @@ void main(){
   sayHello();
 }
 
-void sayHello(){
+void sayasu(){
   print("hello");
 }
